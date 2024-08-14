@@ -1,0 +1,64 @@
+{
+  "origination": "origination1",
+  "dob": "dob1",
+  "tree_branch": [
+    {
+      "strength": "strength2",
+      "length": 201,
+      "woody": "woody2",
+      "sub_branch_leaf": [
+        {
+          "color": "color2",
+          "density": "density2",
+          "no_of_paper": 201,
+          "smooth_level": "smooth_level2"
+        },
+        {
+          "color": "color2",
+          "density": "density2",
+          "no_of_paper": 201,
+          "smooth_level": "smooth_level2"
+        },
+        {
+          "color": "color2",
+          "density": "density2",
+          "no_of_paper": 201,
+          "smooth_level": "smooth_level2"
+        }
+      ]
+    },
+    {
+      "strength": "strength3",
+      "length": 301,
+      "woody": "woody3",
+      "sub_branch_leaf": [
+        {
+          "color": "color3",
+          "density": "density3",
+          "no_of_paper": 301,
+          "smooth_level": "smooth_level3"
+        },
+        {
+          "color": "color3",
+          "density": "density3",
+          "no_of_paper": 301,
+          "smooth_level": "smooth_level3"
+        },
+        {
+          "color": "color3",
+          "density": "density3",
+          "no_of_paper": 301,
+          "smooth_level": "smooth_level3"
+        },
+        {
+          "color": "color3",
+          "density": "density3",
+          "no_of_paper": 301,
+          "smooth_level": "smooth_level3"
+        }
+      ]
+    }
+  ]
+}
+
+Process finished with exit code 0
