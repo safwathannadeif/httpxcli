@@ -17,4 +17,3 @@ class Vehicle(ABC):
     @abstractmethod
     def brake(self):
         pass
-    

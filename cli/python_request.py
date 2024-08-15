@@ -8,4 +8,4 @@ headers = {
 response = requests.request("GET", url, headers=headers)
 print(response.status_code)
 print(response.content)
-#print(response.json)
+# print(response.json)
